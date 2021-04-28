@@ -1,5 +1,4 @@
 <?php
-// array_push($myArr, 5, 8);
 	function fibonacci($number){
 		if ($number == 0) {
 			return $fibonacci_numbers = [0];
